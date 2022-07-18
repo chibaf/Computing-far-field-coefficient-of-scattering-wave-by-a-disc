@@ -6,11 +6,9 @@ octave:4> scspl(1024,10.,1.,.9);
 
 ![image](https://user-images.githubusercontent.com/1296728/179496443-01ab4969-d546-4b3a-8413-3b4d22ed2a17.png)
 
-octave:7> figure(2)
-
-ans =  2
-
 octave:8> ffcpl(1024,10.,1.,.9);
+
+![image](https://user-images.githubusercontent.com/1296728/179496703-0bd349b9-68ff-4375-af35-4afa35a1caf7.png)
 
 We consider the following reduced wave problem in the extrior of a disc.
 
