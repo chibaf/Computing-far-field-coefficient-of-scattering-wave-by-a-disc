@@ -17,7 +17,7 @@ in the exterior of the disc.
 
 ![image](https://user-images.githubusercontent.com/1296728/179536063-9dd32ab7-70ea-48db-9689-66762b1d248a.png) on the boundary of the disc.
 
-lim_{r->infty}sqrt{r}(del u/ del r -i k u)=0.
+![image](https://user-images.githubusercontent.com/1296728/179537669-3405e261-883a-47ac-af8a-8c035c026252.png)
 
 Usage of ffc and scs:
 
