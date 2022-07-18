@@ -17,7 +17,7 @@ in the exterior of the disc.
 
 ![image](https://user-images.githubusercontent.com/1296728/179536063-9dd32ab7-70ea-48db-9689-66762b1d248a.png) on the boundary of the disc.
 
-![image](https://user-images.githubusercontent.com/1296728/179537669-3405e261-883a-47ac-af8a-8c035c026252.png)
+![image](https://user-images.githubusercontent.com/1296728/179537959-510abbb4-63f9-4ab7-b722-f546b1d228a5.png)
 
 Usage of ffc and scs:
 
