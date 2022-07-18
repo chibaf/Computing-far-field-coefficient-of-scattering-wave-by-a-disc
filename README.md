@@ -15,7 +15,7 @@ We consider the following reduced wave problem in the extrior of a disc.
 ![image](https://user-images.githubusercontent.com/1296728/179535698-6eb53348-0c3a-4ecb-b484-27331a2a6d30.png)
 in the exterior of the disc.
 
-u = f on the boundary of the disc.
+![image](https://user-images.githubusercontent.com/1296728/179536063-9dd32ab7-70ea-48db-9689-66762b1d248a.png) on the boundary of the disc.
 
 lim_{r->infty}sqrt{r}(del u/ del r -i k u)=0.
 
