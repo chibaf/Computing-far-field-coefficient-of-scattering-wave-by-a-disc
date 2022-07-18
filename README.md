@@ -4,11 +4,7 @@ Computing far-field coefficient of scattering wave by a disc
 
 octave:4> scspl(1024,10.,1.,.9);
 
-octave:5> figure(1)
-
-ans =  1
-
-octave:6> replot
+![image](https://user-images.githubusercontent.com/1296728/179496443-01ab4969-d546-4b3a-8413-3b4d22ed2a17.png)
 
 octave:7> figure(2)
 
