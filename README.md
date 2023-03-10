@@ -15,9 +15,9 @@ We consider the following reduced wave problem in the extrior of a disc.
 $-\Delta u-k^2 u = 0$ 
 in the exterior of the disc.
 
-![image](https://user-images.githubusercontent.com/1296728/179536063-9dd32ab7-70ea-48db-9689-66762b1d248a.png) on the boundary of the disc.
+$u=f$ on the boundary of the disc.
 
-![image](https://user-images.githubusercontent.com/1296728/179538270-5146713c-ed0c-4816-972c-cb86f9cf8060.png)
+$\limit$
 
 Usage of ffc and scs:
 
