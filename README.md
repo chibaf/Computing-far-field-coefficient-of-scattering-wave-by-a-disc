@@ -17,7 +17,7 @@ in the exterior of the disc.
 
 $u=f$ on the boundary of the disc.
 
-$\limit$
+$\displaystyle\lim_{r\rightarrow\infty}\sqrt{r}\left(\frac{\partial u}{\partial n}-k u\right)=0$
 
 Usage of ffc and scs:
 
