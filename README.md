@@ -12,7 +12,7 @@ octave:8> ffcpl(1024,10.,1.,.9);
 
 We consider the following reduced wave problem in the extrior of a disc.
 
-![image](https://user-images.githubusercontent.com/1296728/179535698-6eb53348-0c3a-4ecb-b484-27331a2a6d30.png)
+$-\Delta u-k^2 u = 0$ 
 in the exterior of the disc.
 
 ![image](https://user-images.githubusercontent.com/1296728/179536063-9dd32ab7-70ea-48db-9689-66762b1d248a.png) on the boundary of the disc.
