@@ -66,3 +66,5 @@ The section meeting for applied mathematics in MSJ anual meetings: March 27--30,
 
 
 Ushijima, Teruo and Chiba, Fumihiro, A Fundamental Solution Method for the Reduced Wave Problem in a Domain Exterior to a Disc, Journal of Computational and Applied Mathematics, doi:10.1016/S0377-0427(02)00729-X, 152(2003), pp.545--557.
+
+Computation of the scattering amplitude for a scattering wave produced by a disc — Approach by a fundamental solution method - ScienceDirect https://www.sciencedirect.com/science/article/pii/S0377042709006256?via%3Dihub
