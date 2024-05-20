@@ -1,1 +1,26 @@
-%% abstract.sty %%%\def\@maketitle{\newpage\null\vskip 2em \begin{center}{\LARGE \@title \par} \vskip 1.5em %TITLE{\large \lineskip .5em\begin{tabular}[t]{c}\@author % AUTHOR\end{tabular}\par}\vskip 1em{\large \@date} % DATE\end{center}\vskip1.5em\begin{center}\usebox{\abstractbox} % display abstract\end{center}\par\vskip 1.5 em}%% redfine abstract environment\newsavebox{\abstractbox}\renewcommand{\abstract}{%\global\setbox\abstractbox=\hbox\bgroup%\begin{minipage}{0.85\textwidth}%\setlength{\parindent}{1em}%\small%%\begin{center} Abstract \end{center}\par}\renewcommand{\endabstract}{\end{minipage}\egroup}
+%% abstract.sty %%
+%
+\def\@maketitle{\newpage
+\null
+\vskip 2em \begin{center}
+{\LARGE \@title \par} \vskip 1.5em %TITLE
+{\large \lineskip .5em
+\begin{tabular}[t]{c}\@author % AUTHOR
+\end{tabular}\par}
+\vskip 1em{\large \@date} % DATE
+\end{center}\vskip1.5em
+\begin{center}
+\usebox{\abstractbox} % display abstract
+\end{center}
+\par
+\vskip 1.5 em}
+%% redfine abstract environment
+\newsavebox{\abstractbox}
+\renewcommand{\abstract}{%
+\global\setbox\abstractbox=\hbox\bgroup%
+\begin{minipage}{0.85\textwidth}%
+\setlength{\parindent}{1em}%
+\small%
+%\begin{center} Abstract \end{center}
+\par}
+\renewcommand{\endabstract}{\end{minipage}\egroup}
