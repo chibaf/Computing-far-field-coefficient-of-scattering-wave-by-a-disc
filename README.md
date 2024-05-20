@@ -50,8 +50,7 @@ plotting profile of scattering cross section for theta=2*pi*j/N with 0 <= j <= N
 
 
 
-References
-
+## References
 
 Abramowitz, M. and Stegun, I. A., {Handbook of Mathematical Functions, with Formulas, Graphs, and Mathematical Tables}, Ninth Printing, Dover Publications, New York, 1972.
 
